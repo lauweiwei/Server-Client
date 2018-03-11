@@ -1,0 +1,7 @@
+E:\Network Programming\client-sever\Sever\bin\Debug\Sever.exe.config
+E:\Network Programming\client-sever\Sever\bin\Debug\Sever.exe
+E:\Network Programming\client-sever\Sever\bin\Debug\Sever.pdb
+E:\Network Programming\client-sever\Sever\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Network Programming\client-sever\Sever\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Network Programming\client-sever\Sever\obj\Debug\Sever.exe
+E:\Network Programming\client-sever\Sever\obj\Debug\Sever.pdb
