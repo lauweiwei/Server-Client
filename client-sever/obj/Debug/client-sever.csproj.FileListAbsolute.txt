@@ -1,0 +1,6 @@
+E:\Network Programming\client-sever\client-sever\bin\Debug\client-sever.exe.config
+E:\Network Programming\client-sever\client-sever\bin\Debug\client-sever.exe
+E:\Network Programming\client-sever\client-sever\bin\Debug\client-sever.pdb
+E:\Network Programming\client-sever\client-sever\obj\Debug\client-sever.csproj.CoreCompileInputs.cache
+E:\Network Programming\client-sever\client-sever\obj\Debug\client-sever.exe
+E:\Network Programming\client-sever\client-sever\obj\Debug\client-sever.pdb
